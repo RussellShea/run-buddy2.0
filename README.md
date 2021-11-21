@@ -1,4 +1,4 @@
-# Run Buddy Inc.
+# Run Buddy
 
 ## Purpose
 
@@ -16,3 +16,5 @@ https://russellshea.github.io/run-buddy2.0/
 ## Contribution
 
 Made with ❤️ by Russell Sheathelm
+
+### ©️2019 Run Buddy, Inc 
