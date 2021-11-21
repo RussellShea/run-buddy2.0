@@ -8,7 +8,9 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://russellshea.github.io/run-buddy2.0/
+
 
 ## Contribution
 Made with ❤️ by Russell Sheathelm
+
+### ©️2019 Run Buddy, Inc 
