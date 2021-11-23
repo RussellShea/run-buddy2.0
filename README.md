@@ -17,4 +17,4 @@ https://russellshea.github.io/run-buddy2.0/
 
 Made with ❤️ by Russell Sheathelm
 
-### ©️2019 Run Buddy, Inc 
+### ©️2019 Run Buddy, Inc
